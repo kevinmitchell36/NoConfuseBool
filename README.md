@@ -32,4 +32,4 @@ else
 }
 
 ```
-which translates to false since both side of an && operator must be true. NoConfuseBool is my way of translating a difficult concept into a real world analogy using c# code. Enjoy! 
+which translates to false since both side of an && operator must be true. I will then repeat this scenerio interchanging 'or' and 'and' while 'coming home with' one, the other, or both. NoConfuseBool is my way of translating a difficult concept into a real world analogy using c# code. Enjoy! 
